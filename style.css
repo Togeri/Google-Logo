@@ -1,0 +1,61 @@
+
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+
+
+
+h1 {
+	
+	font-family: Product Sans;
+	font-size: 100px;
+}
+
+
+
+/* trial n. 5 
+
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+
+*/
+
+
+/*Don't change code below this comment */
+
+.g{
+  color: #4885ed;
+}
+.o1{
+  color: #db3236;
+}
+.o2{
+  color: #f4c20d;
+}
+.l{
+  color: #3cba54;
+}
+.e{
+  -ms-transform: rotate(-10deg); /* IE 9 */
+  -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
+   transform: rotate(-10deg);
+  color: #db3236;
+}
+
+/* Don't change code above this comment */  
+/* Diferent tests with different fonts: Futura, Open Sans, Helvetica, etc
+
+@font-face {
+      font-family: Futura;
+      src: local('Futura Std');
+    }
+    span {
+      font-family: Futura;
+    }
